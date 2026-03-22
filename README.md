@@ -64,7 +64,7 @@ HTML email report with:
 -> Detection table
 -> Recommendation
 
-⚠️ Notes
+⚠️ Notes :
 Email is sent automatically after each scan
 Use App Password, not your Gmail password
 Avoid scanning unauthorized or unsafe URLs
