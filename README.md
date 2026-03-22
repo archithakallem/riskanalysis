@@ -2,7 +2,7 @@
 
 A web-based cybersecurity tool that analyzes URLs using the VirusTotal API, calculates risk scores, visualizes results, and automatically sends email reports.
 
-🚀 Features
+🚀 Features :
 -> URL scanning using VirusTotal API
 -> Interactive data visualization (Bar, Line, Area charts)
 -> Risk scoring system (Safe / Suspicious / Malicious)
@@ -10,7 +10,7 @@ A web-based cybersecurity tool that analyzes URLs using the VirusTotal API, calc
 -> Real-time dashboard built with Streamlit
 -> Secure API key input via sidebar
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 Python
 Streamlit
 Pandas
@@ -19,7 +19,7 @@ smtplib (Email sending)
 MIME (HTML email formatting)
 Base64 (URL encoding)
 
-📦 Installation & Setup  
+📦 Installation & Setup  :
 
 1️⃣ Clone the repository
 git clone https://github.com/archithakallem/riskanalysis.git
@@ -41,10 +41,10 @@ sender = "your_email@gmail.com"
 receiver = "your_email@gmail.com"
 password = "your_app_password"
 
-▶️ How to Run
+▶️ How to Run :
 streamlit run app.py
 
-🧪 How to Use
+🧪 How to Use :
 Enter a URL in the sidebar
 Enter your VirusTotal API key
 Click Analyze URL
@@ -54,7 +54,7 @@ View:
 -> Visualization charts
 Email report is automatically sent after analysis
 
-📊 Output Example
+📊 Output Example :
 Detection statistics (malicious, harmless, suspicious, etc.)
 Risk score (%)
 Interactive charts
